@@ -1,0 +1,20 @@
+# InDrive (fka inDriver)
+
+> InDrive is a global mobility and urban-services platform operating a peer-to-peer, user-proposed pricing model across ride-hailing, intercity/city-to-city rides, courier and freight delivery, and financial services. It is expanding into a "super app" for frontier markets. This is an API Evangelist company profile; InDrive publishes no public third-party developer API at this time.
+
+## Company
+- [About inDrive](https://indrive.com/en/company): Company overview — markets, model, and super-app strategy.
+- [inDrive Blog](https://blog.indrive.com): Company news, product, and market announcements.
+- [Careers](https://careers.indrive.com): Open roles and engineering teams.
+- [Website](https://indrive.com): Consumer app landing pages by city and country.
+
+## Engineering / Open Source
+- [inDrive on GitHub](https://github.com/inDriver): Organization with the inDrive Engineering Handbook and open-source/mirrored libraries.
+- [inDrive Engineering Handbook](https://github.com/inDriver/handbook): Public engineering standards, including internal REST API design guidelines.
+
+## Legal
+- [Legal Documents](https://indrive.com/legal): Terms of Use, Privacy Policy, Cookie Policy, Code of Conduct, and related notices.
+
+## Notes
+- No public developer portal, OpenAPI, SDK, or MCP server was found on InDrive's public surface (checked 2026-07-19).
+- Partner/fleet integrations exist via third parties (e.g. Autofleet) but no self-serve public API is documented.
